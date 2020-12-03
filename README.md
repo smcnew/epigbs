@@ -8,6 +8,7 @@
 
 - slurm scripts for alignment and variant calling 
 - R scripts for testing for differential methylation and plotting
+- .csvs with metadata used in analysis
 
 ## Tools used 
 **Command line**  
